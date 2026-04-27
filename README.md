@@ -1,4 +1,4 @@
-# Hi there! I'm Alvaro 👋 🇪🇸 / 🇺🇸
+# Hi there! I'm Alvaro 👋 🇦🇷 / 🇺🇸
 
 I am a Fullstack Developer passionate about building high-quality web and mobile applications.   
 Soy un Desarrollador Fullstack apasionado por construir aplicaciones web y móviles de alta calidad.
@@ -38,4 +38,4 @@ Soy un Desarrollador Fullstack apasionado por construir aplicaciones web y móvi
 ---
 
 ### 📫 Connect with me / Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/adosio/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adosio/](https://www.linkedin.com/in/adosio/))
