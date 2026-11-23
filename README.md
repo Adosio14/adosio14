@@ -6,7 +6,7 @@
 I enjoy software that talks to hardware and keeps working when the network doesn't.  
 Disfruto el software que habla con hardware y sigue andando cuando la red no.
 
-🌐 **[adosio14.vercel.app](https://adosio14.vercel.app)** · 💼 [LinkedIn](https://www.linkedin.com/in/adosio/) · ✉️ [dosioalvaromartin@gmail.com](mailto:dosioalvaromartin@gmail.com)  
+🌐 **[adosio14.vercel.app](https://adosio.dev)** · 💼 [LinkedIn](https://www.linkedin.com/in/adosio/) · ✉️ [dosioalvaromartin@gmail.com](mailto:dosioalvaromartin@gmail.com)  
 📄 CV: [English](https://adosio14.vercel.app/CV_Alvaro-Dosio_EN.pdf) · [Castellano](https://adosio14.vercel.app/CV_Alvaro-Dosio_ES.pdf)
 
 ---
